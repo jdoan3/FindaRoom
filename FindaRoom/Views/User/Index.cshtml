@@ -1,0 +1,49 @@
+﻿@model IEnumerable<FindaRoom.Models.FilterViewModel>
+@if (Model != null)
+{
+    foreach (var user in Model)
+    {
+        <div class="col-md-3">
+            <div class="thumbnail">
+                @user.FbInfo.name
+                <img src=@user.FbInfo.imageURL alt=@user.FbInfo.name />
+                    <button data-button="@user.FbInfo.UserId" class="btn btn-danger btn-match">Match Me</button> @user.FbInfo.mutualFriendsList.Count()
+            </div>
+        </div>
+    }
+
+}
+@section scripts {
+    <script>
+        $(function () {
+            $('.btn-match').click(function () {
+                _self = $(this);
+                if (!_self.data('liked')) {
+                    var userId = $(_self).attr('data-button');
+                    $.ajax({
+                        type: 'POST',
+                        url: '@Url.Action("Add", "User")',
+                        data: {
+                            userId: userId
+                        },
+                    });
+                    _self.data('liked', true);
+                    _self.html('Liked')
+
+                }
+                else {
+                    var userId = $(_self).attr('data-button');
+                    $.ajax({
+                        type: 'POST',
+                        url: '@Url.Action("RemoveMatch", "User")',
+                        data: {
+                            userId: userId
+                        },
+                    });
+                    _self.html('Match Me')
+                    _self.data('liked', false);
+                }
+            });
+        });
+    </script>
+}

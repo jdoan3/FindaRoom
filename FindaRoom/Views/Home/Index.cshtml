@@ -1,0 +1,76 @@
+﻿@using Microsoft.AspNet.Identity
+@model FindaRoom.Models.LoginIndexViewModel
+<div id="carousel" class="carousel slide carousel-fade" data-ride="carousel">
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner">
+        <div class="item active">
+            <img src="~/Images/paleo-choco-bites-no-watermark.jpg" alt="" />
+        </div>
+        <div class="item">
+            <img src="~/Images/image1.jpg" alt="" />
+        </div>
+    </div>
+    <div class="hover-slide">
+        <div class="right">
+            @Html.Partial("~/Views/Account/_ExternalLoginsListPartial.cshtml", new FindaRoom.Models.ExternalLoginListViewModel { ReturnUrl = ViewBag.ReturnUrl })
+        </div>
+        <div class="left">
+            @Html.Partial("~/Views/Account/_LoginPopOut.cshtml")
+        </div>
+    </div>
+    <!-- Controls -->
+    <a class="left carousel-control" href="#carousel" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left"></span>
+    </a>
+    <a class="right carousel-control" href="#carousel" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right"></span>
+    </a>
+</div>
+
+<div class="row text-center" style="padding:50px;">
+    <div class="col-md-4 text-center">
+        <span class="fa-stack fa-4x">
+            <i class="fa fa-circle fa-stack-2x text-primary"></i>
+            <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
+        </span>
+        <h4 class="service-heading">E-Commerce</h4>
+        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+    </div>
+    <div class="col-md-4">
+        <span class="fa-stack fa-4x">
+            <i class="fa fa-circle fa-stack-2x text-primary"></i>
+            <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
+        </span>
+        <h4 class="service-heading">Responsive Design</h4>
+        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+    </div>
+    <div class="col-md-4">
+        <span class="fa-stack fa-4x">
+            <i class="fa fa-circle fa-stack-2x text-primary"></i>
+            <i class="fa fa-lock fa-stack-1x fa-inverse"></i>
+        </span>
+        <h4 class="service-heading">Web Security</h4>
+        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+    </div>
+</div>
+<footer align="center">
+    <font size="2">
+        @Html.ActionLink("About", "About", "Home")
+        &middot
+        @Html.ActionLink("Help", "About", "Home")
+        &middot
+        @Html.ActionLink("Privacy", "About", "Home")
+        &middot
+        @Html.ActionLink("Cookies", "About", "Home")
+        &middot
+        @Html.ActionLink("Terms", "About", "Home")
+        &copy; @DateTime.Now.Year - My ASP.NET Application
+    </font>
+</footer>
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    <link href="~/Content/LoginPopOut.css" rel="stylesheet" />
+    <script src="~/Scripts/Login/LoginPopOut.js"></script>
+}
+
+

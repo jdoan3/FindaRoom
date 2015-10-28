@@ -1,0 +1,81 @@
+﻿@model FindaRoom.Models.LoginIndexViewModel
+@using Microsoft.Owin.Security
+@{
+    var loginProviders = Context.GetOwinContext().Authentication.GetExternalAuthenticationTypes();
+    if (loginProviders.Count() == 0)
+    {
+        <div>
+            <p>
+                There are no external authentication services configured. See <a href="http://go.microsoft.com/fwlink/?LinkId=403804">this article</a>
+                for details on setting up this ASP.NET application to support logging in via external services.
+            </p>
+        </div>
+    }
+    else
+    {
+        <div>
+            <a class="modal_trigger btn" href=".modal" =>Sign In with Email</a>
+            <div class="modal popupContainer" style="display:none;">
+                <header class="popupHeader">
+                    <div class="centeredText">
+                        <span class="header_title">Welcome to Find a Friend</span>
+                        <span class="modal_close"><i class="fa fa-times"></i></span>
+                    </div>
+                </header>
+
+                <section class="popupBody">
+                    <!-- Social Login -->
+                    <div class="social_login">
+                        <div class="centeredText">
+                            <span>Log in Here</span>
+                        </div>
+                    </div>
+                    <section id="loginForm">
+                        @using (Html.BeginForm("Login", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+                        {
+                            @Html.AntiForgeryToken()
+                            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+                            @Html.TextBoxFor(m => m.LoginViewModel.Email, new { @class = "form-control input-sm", @placeholder = "Email" })
+                            @Html.ValidationMessageFor(m => m.LoginViewModel.Email, "", new { @class = "text-danger" })
+
+
+                            @Html.PasswordFor(m => m.LoginViewModel.Password, new { @class = "form-control input-sm", @placeholder = "Password" })
+                            @Html.ValidationMessageFor(m => m.LoginViewModel.Password, "", new { @class = "text-danger" })
+                            <input type="submit" value="Log In" class="btn btn-sm btn-default" />
+
+                                <div style="font-size: 11pt; color: black">
+                                    @Html.CheckBoxFor(m => m.LoginViewModel.RememberMe)
+                                    @Html.LabelFor(m => m.LoginViewModel.RememberMe)
+                                    @* Enable this once you have account confirmation enabled for password reset functionality*@
+                                    @Html.ActionLink("Forgot your password?", "ForgotPassword")
+                            </div>
+                        }
+                    </section>
+                    <div class="social_login">
+                        <div class="centeredText">
+                            <span>Register Here</span>
+                        </div>
+                    </div>
+                    <section id="registerForm">
+                        @using (Html.BeginForm("Register", "Account", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+                        {
+                            @Html.AntiForgeryToken()
+
+                            <hr />
+                            @Html.ValidationSummary("", new { @class = "text-danger" })
+
+                            @Html.TextBoxFor(m => m.RegisterViewModel.Email, new { @class = "form-control input-sm", @placeholder = "Email" })
+
+                            @Html.PasswordFor(m => m.RegisterViewModel.Password, new { @class = "form-control input-sm", @placeholder = "Password" })
+
+                            @Html.PasswordFor(m => m.RegisterViewModel.ConfirmPassword, new { @class = "form-control input-sm", @placeholder = "Confirm Password" })
+                            <input type="submit" class="btn btn-sm btn-default " value="Sign Up" style="width:175px" />
+
+                        }
+                    </section>
+                </section>
+            </div>
+        </div>
+    }
+}

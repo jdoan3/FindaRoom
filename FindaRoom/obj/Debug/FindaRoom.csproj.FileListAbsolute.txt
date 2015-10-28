@@ -1,0 +1,910 @@
+C:\Users\jason_000\OneDrive\FindaRoom\FindaRoom\obj\Debug\FindaRoom.csprojResolveAssemblyReference.cache
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\FindaRoom.dll.config
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\FindaRoom.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\FindaRoom.pdb
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\Antlr3.Runtime.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\DotNetOpenAuth.Core.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\EntityFramework.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\EntityFramework.SqlServer.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\Facebook.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\Microsoft.Owin.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\Microsoft.Owin.Security.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\Newtonsoft.Json.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\Owin.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\System.Web.Helpers.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\System.Web.Mvc.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\System.Web.Optimization.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\System.Web.Razor.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\System.Web.WebPages.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\System.Web.WebPages.Razor.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\WebGrease.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\WebMatrix.Data.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\WebMatrix.WebData.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\DotNetOpenAuth.Core.xml
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\Facebook.xml
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\System.Web.Helpers.xml
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\System.Web.Mvc.xml
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\System.Web.Optimization.xml
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\System.Web.Razor.xml
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\System.Web.WebPages.xml
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\System.Web.WebPages.Razor.xml
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\Antlr3.Runtime.pdb
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\WebMatrix.Data.xml
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\WebMatrix.WebData.xml
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\Newtonsoft.Json.xml
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\EntityFramework.xml
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\EntityFramework.SqlServer.xml
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\Microsoft.Owin.xml
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\Microsoft.Owin.Security.xml
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\obj\Debug\FindaRoom.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\obj\Debug\FindaRoom.pdb
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\FindaRoom.dll.config
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\FindaRoom.dll
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\FindaRoom.pdb
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\Antlr3.Runtime.dll
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\DotNetOpenAuth.Core.dll
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\EntityFramework.dll
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\EntityFramework.SqlServer.dll
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\Facebook.dll
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\Microsoft.Owin.dll
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\Microsoft.Owin.Security.dll
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\Newtonsoft.Json.dll
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\Owin.dll
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\System.Web.Helpers.dll
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\System.Web.Mvc.dll
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\System.Web.Optimization.dll
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\System.Web.Razor.dll
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\System.Web.WebPages.dll
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\System.Web.WebPages.Razor.dll
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\WebGrease.dll
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\WebMatrix.Data.dll
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\WebMatrix.WebData.dll
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\DotNetOpenAuth.Core.xml
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\Facebook.xml
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\System.Web.Helpers.xml
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\System.Web.Mvc.xml
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\System.Web.Optimization.xml
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\System.Web.Razor.xml
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\System.Web.WebPages.xml
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\System.Web.WebPages.Razor.xml
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\Antlr3.Runtime.pdb
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\WebMatrix.Data.xml
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\WebMatrix.WebData.xml
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\Newtonsoft.Json.xml
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\EntityFramework.xml
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\EntityFramework.SqlServer.xml
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\Microsoft.Owin.xml
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\Microsoft.Owin.Security.xml
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\obj\Debug\FindaRoom.dll
+C:\Users\Julius Doan\Desktop\FindaRoom2\FindaRoom\obj\Debug\FindaRoom.pdb
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\FindaRoom.dll.config
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\FindaRoom.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\FindaRoom.pdb
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\Antlr3.Runtime.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\DotNetOpenAuth.Core.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\EntityFramework.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\EntityFramework.SqlServer.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\Facebook.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\Microsoft.Owin.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\Microsoft.Owin.Security.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\Newtonsoft.Json.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\Owin.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\System.Web.Helpers.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\System.Web.Mvc.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\System.Web.Optimization.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\System.Web.Razor.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\System.Web.WebPages.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\System.Web.WebPages.Razor.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\WebGrease.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\WebMatrix.Data.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\WebMatrix.WebData.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\DotNetOpenAuth.Core.xml
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\Facebook.xml
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\System.Web.Helpers.xml
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\System.Web.Mvc.xml
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\System.Web.Optimization.xml
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\System.Web.Razor.xml
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\System.Web.WebPages.xml
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\System.Web.WebPages.Razor.xml
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\Antlr3.Runtime.pdb
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\WebMatrix.Data.xml
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\WebMatrix.WebData.xml
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\Newtonsoft.Json.xml
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\EntityFramework.xml
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\EntityFramework.SqlServer.xml
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\Microsoft.Owin.xml
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\Microsoft.Owin.Security.xml
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\obj\Debug\FindaRoom.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\obj\Debug\FindaRoom.pdb
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\AjaxMin.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\HtmlAgilityPack.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\Microsoft.Data.Edm.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\Microsoft.Data.OData.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\System.Spatial.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\HtmlAgilityPack.pdb
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\HtmlAgilityPack.xml
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\Microsoft.Data.Edm.xml
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\Microsoft.Data.OData.xml
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\System.Spatial.xml
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\de\System.Spatial.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\es\System.Spatial.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\fr\System.Spatial.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\it\System.Spatial.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\ja\System.Spatial.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\ko\System.Spatial.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\ru\System.Spatial.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\Common.Logging.Core.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\Common.Logging.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\protobuf-net.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\ProtoChannel-4.dll
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\Common.Logging.pdb
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\Common.Logging.xml
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\Common.Logging.Core.pdb
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\Common.Logging.Core.xml
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\protobuf-net.pdb
+C:\Users\jason_000\Desktop\FindaRoom\FindaRoom\bin\protobuf-net.xml
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\FindaRoom.dll.config
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\FindaRoom.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\FindaRoom.pdb
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\AjaxMin.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\Antlr3.Runtime.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\Common.Logging.Core.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\Common.Logging.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\DotNetOpenAuth.Core.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\EntityFramework.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\EntityFramework.SqlServer.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\Facebook.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\HtmlAgilityPack.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\Microsoft.Data.Edm.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\Microsoft.Data.OData.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\Microsoft.Owin.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\Microsoft.Owin.Security.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\Newtonsoft.Json.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\Owin.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\protobuf-net.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\ProtoChannel-4.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\System.Spatial.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\System.Web.Helpers.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\System.Web.Mvc.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\System.Web.Optimization.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\System.Web.Razor.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\System.Web.WebPages.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\System.Web.WebPages.Razor.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\WebGrease.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\WebMatrix.Data.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\WebMatrix.WebData.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\Common.Logging.pdb
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\Common.Logging.xml
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\Common.Logging.Core.pdb
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\Common.Logging.Core.xml
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\DotNetOpenAuth.Core.xml
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\Facebook.xml
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\HtmlAgilityPack.pdb
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\HtmlAgilityPack.xml
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\Microsoft.Data.Edm.xml
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\Microsoft.Data.OData.xml
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\Newtonsoft.Json.xml
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\protobuf-net.pdb
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\protobuf-net.xml
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\System.Spatial.xml
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\System.Web.Helpers.xml
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\System.Web.Mvc.xml
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\System.Web.Optimization.xml
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\System.Web.Razor.xml
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\System.Web.WebPages.xml
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\System.Web.WebPages.Razor.xml
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\Antlr3.Runtime.pdb
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\WebMatrix.Data.xml
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\WebMatrix.WebData.xml
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\EntityFramework.xml
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\EntityFramework.SqlServer.xml
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\Microsoft.Owin.xml
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\Microsoft.Owin.Security.xml
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\de\System.Spatial.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\es\System.Spatial.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\fr\System.Spatial.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\it\System.Spatial.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\ja\System.Spatial.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\ko\System.Spatial.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\ru\System.Spatial.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\obj\Debug\FindaRoom.dll
+C:\Users\jason_000\Desktop\FindaRoom3\FindaRoom\obj\Debug\FindaRoom.pdb
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\AjaxMin.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\Common.Logging.Core.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\Common.Logging.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\HtmlAgilityPack.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\Microsoft.Data.Edm.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\Microsoft.Data.OData.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\protobuf-net.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\ProtoChannel-4.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\System.Spatial.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\Common.Logging.pdb
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\Common.Logging.xml
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\Common.Logging.Core.pdb
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\Common.Logging.Core.xml
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\HtmlAgilityPack.pdb
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\HtmlAgilityPack.xml
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\Microsoft.Data.Edm.xml
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\Microsoft.Data.OData.xml
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\protobuf-net.pdb
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\protobuf-net.xml
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\System.Spatial.xml
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\de\System.Spatial.resources.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\es\System.Spatial.resources.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\fr\System.Spatial.resources.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\it\System.Spatial.resources.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\ja\System.Spatial.resources.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\ko\System.Spatial.resources.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\ru\System.Spatial.resources.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Julius Doan\OneDrive\FindaRoom\FindaRoom\obj\Debug\FindaRoom.csprojResolveAssemblyReference.cache
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\FindaRoom.dll.config
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\FindaRoom.dll
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\FindaRoom.pdb
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\Antlr3.Runtime.dll
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\Common.Logging.Core.dll
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\Common.Logging.dll
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\DotNetOpenAuth.Core.dll
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\EntityFramework.dll
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\EntityFramework.SqlServer.dll
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\Facebook.dll
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\Microsoft.Owin.dll
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\Microsoft.Owin.Security.dll
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\Newtonsoft.Json.dll
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\Owin.dll
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\protobuf-net.dll
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\ProtoChannel-4.dll
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\System.Web.Helpers.dll
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\System.Web.Mvc.dll
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\System.Web.Optimization.dll
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\System.Web.Razor.dll
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\System.Web.WebPages.dll
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\System.Web.WebPages.Razor.dll
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\WebGrease.dll
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\WebMatrix.Data.dll
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\WebMatrix.WebData.dll
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\Common.Logging.pdb
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\Common.Logging.xml
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\Common.Logging.Core.pdb
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\Common.Logging.Core.xml
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\DotNetOpenAuth.Core.xml
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\Facebook.xml
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\Newtonsoft.Json.xml
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\protobuf-net.pdb
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\protobuf-net.xml
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\System.Web.Helpers.xml
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\System.Web.Mvc.xml
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\System.Web.Optimization.xml
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\System.Web.Razor.xml
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\System.Web.WebPages.xml
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\System.Web.WebPages.Razor.xml
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\Antlr3.Runtime.pdb
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\WebMatrix.Data.xml
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\WebMatrix.WebData.xml
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\EntityFramework.xml
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\EntityFramework.SqlServer.xml
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\Microsoft.Owin.xml
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\Microsoft.Owin.Security.xml
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\obj\Debug\FindaRoom.csprojResolveAssemblyReference.cache
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\obj\Debug\FindaRoom.dll
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\obj\Debug\FindaRoom.pdb
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\FindaRoom.dll.config
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\FindaRoom.dll
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\FindaRoom.pdb
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\AjaxControlToolkit.dll
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\Antlr3.Runtime.dll
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\Common.Logging.Core.dll
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\Common.Logging.dll
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\DotNetOpenAuth.Core.dll
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\EntityFramework.dll
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\EntityFramework.SqlServer.dll
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\Facebook.dll
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\Microsoft.Owin.dll
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\Microsoft.Owin.Security.dll
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\Microsoft.Web.Mvc.dll
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\Newtonsoft.Json.dll
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\Owin.dll
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\protobuf-net.dll
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\ProtoChannel-4.dll
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\System.Web.Helpers.dll
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\System.Web.Mvc.dll
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\System.Web.Optimization.dll
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\System.Web.Razor.dll
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\System.Web.WebPages.dll
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\System.Web.WebPages.Razor.dll
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\WebGrease.dll
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\WebMatrix.Data.dll
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\WebMatrix.WebData.dll
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\Antlr3.Runtime.pdb
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\Common.Logging.pdb
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\Common.Logging.xml
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\Common.Logging.Core.pdb
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\Common.Logging.Core.xml
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\DotNetOpenAuth.Core.xml
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\EntityFramework.xml
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\EntityFramework.SqlServer.xml
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\Facebook.xml
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\Microsoft.Owin.xml
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\Microsoft.Owin.Security.xml
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\Newtonsoft.Json.xml
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\protobuf-net.pdb
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\protobuf-net.xml
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\System.Web.Helpers.xml
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\System.Web.Mvc.xml
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\System.Web.Razor.xml
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\System.Web.WebPages.xml
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\System.Web.WebPages.Razor.xml
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\System.Web.Optimization.xml
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\WebMatrix.Data.xml
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\WebMatrix.WebData.xml
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\obj\Debug\FindaRoom.dll
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\obj\Debug\FindaRoom.pdb
+C:\Users\Julius Doan\Desktop\FindaRoom\FindaRoom\obj\Debug\FindaRoom.csprojResolveAssemblyReference.cache
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\AjaxControlToolkit.dll
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\Microsoft.Web.Mvc.dll
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Julius Doan\Desktop\FindaRoom1\FindaRoom\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\FindaRoom.dll.config
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\FindaRoom.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\FindaRoom.pdb
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\AjaxControlToolkit.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\Antlr3.Runtime.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\Common.Logging.Core.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\Common.Logging.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\DotNetOpenAuth.Core.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\EntityFramework.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\EntityFramework.SqlServer.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\Facebook.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\Microsoft.Owin.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\Microsoft.Owin.Security.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\Microsoft.Web.Mvc.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\Newtonsoft.Json.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\Owin.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\protobuf-net.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\ProtoChannel-4.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\System.Web.Helpers.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\System.Web.Mvc.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\System.Web.Optimization.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\System.Web.Razor.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\System.Web.WebPages.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\System.Web.WebPages.Razor.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\WebGrease.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\WebMatrix.Data.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\WebMatrix.WebData.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\Antlr3.Runtime.pdb
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\Common.Logging.pdb
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\Common.Logging.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\Common.Logging.Core.pdb
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\Common.Logging.Core.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\DotNetOpenAuth.Core.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\EntityFramework.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\EntityFramework.SqlServer.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\Facebook.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\Microsoft.Owin.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\Microsoft.Owin.Security.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\Newtonsoft.Json.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\protobuf-net.pdb
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\protobuf-net.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\System.Web.Helpers.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\System.Web.Mvc.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\System.Web.Razor.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\System.Web.WebPages.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\System.Web.WebPages.Razor.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\System.Web.Optimization.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\WebMatrix.Data.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\WebMatrix.WebData.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\obj\Debug\FindaRoom.csprojResolveAssemblyReference.cache
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\obj\Debug\FindaRoom.Migrations.init.resources
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\obj\Debug\FindaRoom.csproj.GenerateResource.Cache
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\obj\Debug\FindaRoom.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3\FindaRoom\obj\Debug\FindaRoom.pdb
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\FindaRoom.dll.config
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\FindaRoom.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\FindaRoom.pdb
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\AjaxControlToolkit.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\Antlr3.Runtime.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\Common.Logging.Core.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\Common.Logging.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\DotNetOpenAuth.Core.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\EntityFramework.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\EntityFramework.SqlServer.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\Facebook.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\Microsoft.Owin.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\Microsoft.Owin.Security.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\Microsoft.Web.Mvc.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\Newtonsoft.Json.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\Owin.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\protobuf-net.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\ProtoChannel-4.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\System.Web.Helpers.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\System.Web.Mvc.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\System.Web.Optimization.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\System.Web.Razor.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\System.Web.WebPages.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\System.Web.WebPages.Razor.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\WebGrease.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\WebMatrix.Data.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\WebMatrix.WebData.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\Antlr3.Runtime.pdb
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\Common.Logging.pdb
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\Common.Logging.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\Common.Logging.Core.pdb
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\Common.Logging.Core.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\DotNetOpenAuth.Core.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\EntityFramework.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\EntityFramework.SqlServer.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\Facebook.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\Microsoft.Owin.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\Microsoft.Owin.Security.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\Newtonsoft.Json.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\protobuf-net.pdb
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\protobuf-net.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\System.Web.Helpers.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\System.Web.Mvc.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\System.Web.Razor.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\System.Web.WebPages.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\System.Web.WebPages.Razor.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\System.Web.Optimization.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\WebMatrix.Data.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\WebMatrix.WebData.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\obj\Debug\FindaRoom.csprojResolveAssemblyReference.cache
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\obj\Debug\FindaRoom.Migrations.init.resources
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\obj\Debug\FindaRoom.csproj.GenerateResource.Cache
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\obj\Debug\FindaRoom.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - Copy\FindaRoom\obj\Debug\FindaRoom.pdb
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\obj\Debug\FindaRoom.csprojResolveAssemblyReference.cache
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\FindaRoom.dll.config
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\FindaRoom.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\FindaRoom.pdb
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\AjaxControlToolkit.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\Antlr3.Runtime.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\Common.Logging.Core.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\Common.Logging.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\DotNetOpenAuth.Core.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\EntityFramework.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\EntityFramework.SqlServer.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\Facebook.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\Microsoft.Owin.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\Microsoft.Owin.Security.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\Microsoft.Web.Mvc.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\Newtonsoft.Json.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\Owin.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\protobuf-net.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\ProtoChannel-4.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\System.Web.Helpers.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\System.Web.Mvc.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\System.Web.Optimization.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\System.Web.Razor.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\System.Web.WebPages.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\System.Web.WebPages.Razor.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\WebGrease.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\WebMatrix.Data.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\WebMatrix.WebData.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\Antlr3.Runtime.pdb
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\Common.Logging.pdb
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\Common.Logging.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\Common.Logging.Core.pdb
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\Common.Logging.Core.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\DotNetOpenAuth.Core.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\EntityFramework.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\EntityFramework.SqlServer.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\Facebook.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\Microsoft.Owin.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\Microsoft.Owin.Security.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\Newtonsoft.Json.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\protobuf-net.pdb
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\protobuf-net.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\System.Web.Helpers.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\System.Web.Mvc.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\System.Web.Razor.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\System.Web.WebPages.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\System.Web.WebPages.Razor.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\System.Web.Optimization.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\WebMatrix.Data.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\WebMatrix.WebData.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\obj\Debug\FindaRoom.dll
+C:\Users\Julius Doan\Desktop\FindaRoom - 3 - GOOD\FindaRoom\obj\Debug\FindaRoom.pdb

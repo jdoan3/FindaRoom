@@ -1,0 +1,44 @@
+﻿@model FindaRoom.Models.ExternalLoginListViewModel
+@using Microsoft.Owin.Security
+@{
+    var loginProviders = Context.GetOwinContext().Authentication.GetExternalAuthenticationTypes();
+        <form id="login-launch" action="@Url.Action("ExternalLogin", "Account")" method="POST" target="login-popup" onsubmit="invokeLogin();">
+            @Html.AntiForgeryToken()
+            <fieldset id="socialLoginList">
+                <input type="hidden" id="provider" name="provider" />
+                <input type="hidden" name="returnUrl" value='@Url.Action("Create", "Questions")' />
+                <p>
+                    @foreach (AuthenticationDescription p in loginProviders)
+                    {
+                        <button type="submit" onclick="$('#provider').attr('value', '@p.AuthenticationType'); $('#login-launch').submit();" class="btn btn-default" id="@p.AuthenticationType" name="provider" value="@p.AuthenticationType" title="Log in using your @p.Caption account">@p.AuthenticationType</button>
+
+                    }
+                </p>
+            </fieldset>
+        </form>
+}
+<script type="text/javascript">
+    function invokeLogin() {
+        var chrome = 100;
+        var width = 500;
+        var height = 500;
+        var left = (screen.width - width) / 2;
+        var top = (screen.height - height - chrome) / 2;
+        var options = "status=0,toolbar=0,location=1,resizable=1,scrollbars=1,left=" + left + ",top=" + top + ",width=" + width + ",height=" + height;
+        window.open("about:blank", "login-popup", options);
+    }
+</script>
+<script type="text/javascript">
+    function loginCallback(success, returnUrl) {
+        if (returnUrl) {
+            window.location.href = returnUrl;
+        } else {
+            $.ajax({
+                url: '@Url.Action("LoginPartial", "Account")',
+                success: function (result) {
+                    $('#login').html(result);
+                }
+            });
+        }
+    }
+</script>

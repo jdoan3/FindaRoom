@@ -1,0 +1,8 @@
+﻿@model FindaRoom.Models.Message
+@Html.ActionLink(Model.UserSender + "---------------" + Model.SentAt, "Respond", new { id = Model.Id }, new { style = "font-weight:bold;" })
+@using (Html.BeginForm("DeleteAction", "Mailbox"))
+{
+    @Html.Hidden("id", Model.Id)
+    @Html.AntiForgeryToken()
+    <input type="submit" value="Delete">
+}

@@ -1,0 +1,18 @@
+﻿@model ICollection<FindaRoom.Models.FilterViewModel>
+
+@if (Model != null)
+{
+    <div class="row">
+        @foreach (var user in Model)
+        {
+            <div class="col-md-3">
+                <div href="#" class="thumbnail">
+                    @user.FbInfo.name
+                    <img src=@user.FbInfo.imageURL alt=@user.FbInfo.name />
+                    <button data-button="@user.FbInfo.UserId" class="btn btn-danger">Connected</button> @user.FbInfo.mutualFriendsList.Count()
+                    @Html.ActionLink("Email", "Create", "Mailbox", new { userId = user.FbInfo.UserId }, null)
+                </div>
+            </div>
+        }
+    </div>
+}

@@ -1,0 +1,28 @@
+﻿@using FindaRoom.Extensions
+@model IEnumerable<FindaRoom.Models.Message>
+@{
+    ViewBag.Title = "Index";
+}
+<h2>Index</h2>
+
+<div class="well">
+
+
+    <ol class="list-unstyled" id="messages">
+        @foreach (var item in Model)
+        {
+
+            <li>
+
+                @Html.MessageDetailsLink(item)
+                @using (Html.BeginForm("DeleteAction", "Mailbox"))
+                {
+                    @Html.Hidden("id", item.Id)
+                    @Html.AntiForgeryToken()
+                    <input type="submit" value="Delete">
+                }
+            </li>
+        }
+    </ol>
+
+    </div>
